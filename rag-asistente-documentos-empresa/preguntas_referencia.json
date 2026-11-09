@@ -1,0 +1,13 @@
+[
+  {"id": "P01", "pregunta": "¿Cuántos días a la semana puedo teletrabajar?", "grupos": ["todos"], "fuente_esperada": "politica-teletrabajo.md", "seccion_esperada": "Días de teletrabajo"},
+  {"id": "P02", "pregunta": "¿Cuánto pagan al mes por los gastos de teletrabajar?", "grupos": ["todos"], "fuente_esperada": "politica-teletrabajo.md", "seccion_esperada": "Equipamiento y compensación"},
+  {"id": "P03", "pregunta": "¿Qué día hay que ir a la oficina?", "grupos": ["todos"], "fuente_esperada": "politica-teletrabajo.md", "seccion_esperada": "Días de teletrabajo"},
+  {"id": "P04", "pregunta": "Límite de hotel por noche en el extranjero", "grupos": ["todos"], "fuente_esperada": "procedimiento-gastos.md", "seccion_esperada": "Límites de gasto"},
+  {"id": "P05", "pregunta": "¿Cuál es el código de proveedor de la agencia de viajes?", "grupos": ["todos"], "fuente_esperada": "procedimiento-gastos.md", "seccion_esperada": "Antes del viaje"},
+  {"id": "P06", "pregunta": "¿En qué plazo tengo que subir los tiques?", "grupos": ["todos"], "fuente_esperada": "procedimiento-gastos.md", "seccion_esperada": "Cómo presentar los gastos"},
+  {"id": "P07", "pregunta": "¿Dónde aviso de una incidencia de seguridad?", "grupos": ["todos"], "fuente_esperada": "politica-teletrabajo.md", "seccion_esperada": "Seguridad de la información"},
+  {"id": "P08", "pregunta": "¿Puedo usar mi ordenador personal en casa?", "grupos": ["todos"], "fuente_esperada": "politica-teletrabajo.md", "seccion_esperada": "Seguridad de la información"},
+  {"id": "P09", "pregunta": "¿Cómo se calcula el variable del comité de dirección?", "grupos": ["direccion"], "fuente_esperada": "retribucion-variable-direccion.md", "seccion_esperada": "Objetivos"},
+  {"id": "P10", "pregunta": "¿Cómo se calcula el variable del comité de dirección?", "grupos": ["todos"], "fuente_esperada": null, "seccion_esperada": null, "nota": "Pregunta de permisos: sin el grupo direccion no debe recuperarse el documento restringido."},
+  {"id": "P11", "pregunta": "¿Cuál es la política de vacaciones?", "grupos": ["todos"], "fuente_esperada": null, "seccion_esperada": null, "nota": "Sin respuesta en la documentación: la respuesta correcta es «no consta en la documentación»."}
+]

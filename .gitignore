@@ -1,0 +1,23 @@
+# Entornos y cachés de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Ficheros que generan los ejemplos
+python-o-r-analisis-datos/datos/
+mlops-llevar-modelo-produccion/mlflow.db
+mlops-llevar-modelo-produccion/mlruns/
+mlruns/
+mlflow.db
+adaptador/
+
+# R
+.Rhistory
+.RData
+renv/library/
+
+# Sistema
+.DS_Store
+Thumbs.db

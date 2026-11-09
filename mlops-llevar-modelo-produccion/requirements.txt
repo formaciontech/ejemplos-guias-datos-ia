@@ -1,0 +1,6 @@
+# Versiones mínimas. Los alias del registro existen desde MLflow 2.9; el parámetro
+# name= de log_model, desde MLflow 3.
+# Probado el 9/11/2026 con Python 3.13, MLflow 3.18 y scikit-learn 1.9.
+mlflow>=3.0
+scikit-learn>=1.3
+numpy>=1.26

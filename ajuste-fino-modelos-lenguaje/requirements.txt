@@ -1,0 +1,10 @@
+# Versiones mínimas para 01_referencia_tfidf.py y 02_lora_cpu.py (funcionan en CPU).
+# Probado el 9/11/2026 con Python 3.13, scikit-learn 1.9, PyTorch 2.15 (CPU),
+# Transformers 5.22 y PEFT 0.21.
+# PyTorch solo para CPU, más ligero:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+scikit-learn>=1.5
+numpy>=1.26
+torch>=2.1
+transformers>=4.40
+peft>=0.10

@@ -1,0 +1,6 @@
+# Para 03_qlora_gpu.py (no ejecutado aquí): GPU con CUDA y bitsandbytes.
+torch>=2.1
+transformers>=4.40
+peft>=0.10
+accelerate>=0.30
+bitsandbytes>=0.43
